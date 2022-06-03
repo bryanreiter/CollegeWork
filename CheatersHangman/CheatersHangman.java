@@ -151,12 +151,3 @@ public class CheatersHangman {
     }
 
 }
-
-//8 letters
-/*
-E - wrong
-A - wrong
-I - yes
-N - yes
-G - yes
- */
